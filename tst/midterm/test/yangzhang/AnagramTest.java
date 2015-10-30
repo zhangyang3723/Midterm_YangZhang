@@ -3,7 +3,7 @@ package midterm.test.yangzhang;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import midterm.yang.zhang.Anagram;
+import midterm.yangzhang.Anagram;
 
 public class AnagramTest {
 	

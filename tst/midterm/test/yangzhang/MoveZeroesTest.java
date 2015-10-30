@@ -3,7 +3,7 @@ package midterm.test.yangzhang;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import midterm.yang.zhang.MoveZeroes;
+import midterm.yangzhang.MoveZeroes;
 
 public class MoveZeroesTest {
 
